@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\invite.Server.props" />
+</Project>

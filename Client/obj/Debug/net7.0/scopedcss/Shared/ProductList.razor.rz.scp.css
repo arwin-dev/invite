@@ -1,0 +1,42 @@
+.media-img[b-qaylwt3d58] {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    transition: transform .2s;
+}
+
+.media-img-wrapper[b-qaylwt3d58] {
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+}
+
+.media-img:hover[b-qaylwt3d58] {
+    transform: scale(1.1);
+}
+
+.media[b-qaylwt3d58] {
+    display: flex;
+    align-items: flex-start;
+}
+
+.media-bodu[b-qaylwt3d58]{
+    flex: 1;
+}
+
+.price[b-qaylwt3d58] {
+    color: green;
+}
+
+@media (max-width: 1023.98px) {
+
+    .media[b-qaylwt3d58] {
+        flex-direction: column;
+    }
+
+    .media-img-wrapper[b-qaylwt3d58] {
+        width: 100%;
+        height: auto;
+    }
+}

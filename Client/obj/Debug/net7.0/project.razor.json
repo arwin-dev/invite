@@ -107,39 +107,6 @@
         }
       },
       {
-        "HashCode": -656102137,
-        "Kind": "Components.Component",
-        "Name": "invite.Client.Pages.Index",
-        "AssemblyName": "invite.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "invite.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1922007970,
-        "Kind": "Components.Component",
-        "Name": "invite.Client.Pages.Index",
-        "AssemblyName": "invite.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "invite.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "invite.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 651740192,
         "Kind": "Components.Component",
         "Name": "invite.Client.Pages.ProductDetails",
@@ -189,6 +156,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "invite.Client.Pages.ProductDetails",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1584960687,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Pages.Index",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryUrl",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryUrl"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1528143887,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Pages.Index",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "invite.Client.Pages.Index"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryUrl",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryUrl"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -342,39 +362,6 @@
         }
       },
       {
-        "HashCode": -783695552,
-        "Kind": "Components.Component",
-        "Name": "invite.Client.Shared.NavMenu",
-        "AssemblyName": "invite.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "invite.Client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 957292837,
-        "Kind": "Components.Component",
-        "Name": "invite.Client.Shared.NavMenu",
-        "AssemblyName": "invite.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "invite.Client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "invite.Client.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -192097626,
         "Kind": "Components.Component",
         "Name": "invite.Client.Shared.ProductList",
@@ -404,6 +391,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "invite.Client.Shared.ProductList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -783695552,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Shared.NavMenu",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 957292837,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Shared.NavMenu",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "invite.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

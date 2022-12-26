@@ -7,5 +7,8 @@ namespace invite.Server.Services.ProductService
 
         //Return a single product from the SQL server
         Task<ServiceResponse<Product>> GetProductAsync(int productId);
+
+        //Returns products according to the categories
+        Task<ServiceResponse<List<Product>>> GetProductByCategory(string categoryUrl);
     }
 }

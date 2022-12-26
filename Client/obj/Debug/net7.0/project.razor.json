@@ -140,6 +140,59 @@
         }
       },
       {
+        "HashCode": -332766754,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Pages.ProductDetails",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProductDetails"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Pages.ProductDetails"
+        }
+      },
+      {
+        "HashCode": -2038016893,
+        "Kind": "Components.Component",
+        "Name": "invite.Client.Pages.ProductDetails",
+        "AssemblyName": "invite.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "invite.Client.Pages.ProductDetails"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "invite.Client.Pages.ProductDetails",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1793648543,
         "Kind": "Components.Component",
         "Name": "invite.Client.Shared.SurveyPrompt",
@@ -13931,6 +13984,11 @@
     {
       "FilePath": "c:\\Projects\\invite\\Client\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Projects\\invite\\Client\\Pages\\ProductDetails.razor",
+      "TargetPath": "Pages\\ProductDetails.razor",
       "FileKind": "component"
     },
     {

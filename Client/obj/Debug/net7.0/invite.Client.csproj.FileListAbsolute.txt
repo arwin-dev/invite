@@ -835,3 +835,4 @@ C:\Projects\invite\Client\obj\Debug\net7.0\refint\invite.Client.dll
 C:\Projects\invite\Client\obj\Debug\net7.0\invite.Client.pdb
 C:\Projects\invite\Client\obj\Debug\net7.0\ref\invite.Client.dll
 C:\Projects\invite\Client\obj\Debug\net7.0\scopedcss\Shared\ProductList.razor.rz.scp.css
+C:\Projects\invite\Client\obj\Debug\net7.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css

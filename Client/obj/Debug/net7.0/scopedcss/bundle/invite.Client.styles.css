@@ -1,3 +1,28 @@
+/* /Pages/ProductDetails.razor.rz.scp.css */
+.media-img[b-1veyqf5na6]{
+    max-height: 350px;
+    max-width: 500px;
+    border-radius: 6px;
+    margin: 10px 10px 10px 10px;
+    align-items: center;
+}
+
+.media-img-wrapper[b-1veyqf5na6]{
+    max-width: 100%;
+    max-height: 500px;
+    text-align: center;
+}
+
+@media (max-wdith: 1023.98px) {
+    .media-img[b-1veyqf5na6]{
+        max-width: 300px;
+    }
+
+    .media-img-wrapper[b-1veyqf5na6]{
+        width: 100%;;
+        height: auto;
+    }
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-5orbzyr4g3] {
     position: relative;

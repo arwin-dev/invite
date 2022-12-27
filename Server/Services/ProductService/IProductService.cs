@@ -10,5 +10,10 @@ namespace invite.Server.Services.ProductService
 
         //Returns products according to the categories
         Task<ServiceResponse<List<Product>>> GetProductByCategory(string categoryUrl);
+
+        // Search function 
+        Task<ServiceResponse<List<Product>>> SearchProducts(string searchText);
+        // Search Suggestions 
+        Task<ServiceResponse<List<string>>> GetProductSearchSuggestions(string searchText);
     }
 }

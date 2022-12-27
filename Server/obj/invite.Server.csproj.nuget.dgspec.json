@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\invite\\server\\invite.Server.csproj": {}
+    "C:\\Projects\\invite\\Server\\invite.Server.csproj": {}
   },
   "projects": {
     "C:\\Projects\\invite\\Client\\invite.Client.csproj": {
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Projects\\invite\\server\\invite.Server.csproj": {
+    "C:\\Projects\\invite\\Server\\invite.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\invite\\server\\invite.Server.csproj",
+        "projectUniqueName": "C:\\Projects\\invite\\Server\\invite.Server.csproj",
         "projectName": "invite.Server",
-        "projectPath": "C:\\Projects\\invite\\server\\invite.Server.csproj",
+        "projectPath": "C:\\Projects\\invite\\Server\\invite.Server.csproj",
         "packagesPath": "C:\\Users\\arwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\invite\\server\\obj\\",
+        "outputPath": "C:\\Projects\\invite\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arwin\\AppData\\Roaming\\NuGet\\NuGet.Config",

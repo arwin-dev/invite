@@ -198,15 +198,15 @@
       "mscorlib.dll": "sha256-UH9jptJH1wZ3XMBPuMMAEaUKpfRxc5AgXkLdAFAvNVE=",
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
-      "invite.Shared.dll": "sha256-UyDcb1EvhPXepXypLqIS\/IAygl0m1hU3E4EPoyUyh+4=",
-      "invite.Client.dll": "sha256-vl15Mjrq5bqFY6hSeJ21\/Drlii\/ddHRTV9HEOo0oPgI="
+      "invite.Shared.dll": "sha256-2MbqvszAuy0zFV4pTl0LUluqPNl+LpO6FQCD4vvdIGk=",
+      "invite.Client.dll": "sha256-taEMLKX+MGTEnWKB0+\/3XfALhhCBuY7CmB2PIW8YUj8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "invite.Shared.pdb": "sha256-qa5w2NmkLA8WgCBuuB1GAM6uni29ley+ftud3RjPT\/o=",
-      "invite.Client.pdb": "sha256-BwfEesiCxTy5ZjVQ5Az8jaM5MWLlfPfWoW\/ynclzsF4="
+      "invite.Shared.pdb": "sha256-vWPmWDpe7dUUgNYOgIO7FlS75sBMy\/nFBOdRdq3eb5I=",
+      "invite.Client.pdb": "sha256-67WJUJtghj9hXIPCX8nchkOwe3fulKKg2GGC\/EHRg1g="
     },
     "runtime": {
       "dotnet.7.0.1.vd8ys5q94d.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",

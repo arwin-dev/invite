@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mqMam0tv0R/YJmFnVZGGjvJYVFLKOhBReKd2nhk+JBtaiqe+33epHNolhCEGDjCDuKLlfI2aKR3Pw2+oXoB27Q==",
+  "dgSpecHash": "ctlhWFCJiOiTuNo7JRNHXSK/8Z+C1QoRdiiaXat2uxQv8aAQ2CJ2mu/hfovyhsMratvUMCvpg0w6kpnhlBzAFg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\invite\\server\\invite.Server.csproj",
+  "projectFilePath": "C:\\Projects\\invite\\Server\\invite.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arwin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\arwin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

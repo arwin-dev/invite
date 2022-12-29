@@ -15,5 +15,7 @@ namespace invite.Server.Services.ProductService
         Task<ServiceResponse<List<Product>>> SearchProducts(string searchText);
         // Search Suggestions 
         Task<ServiceResponse<List<string>>> GetProductSearchSuggestions(string searchText);
+        //Returns featured products 
+        Task<ServiceResponse<List<Product>>> GetFeaturedProducts();
     }
 }
